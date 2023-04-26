@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-04-26 21:30:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+In sha'Allah I am finally setting up my website!
