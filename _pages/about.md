@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome, fellow human beings! I am an Ecuadorian M.S./Ph.D. Student of Applied Mathematics and Computational Sciences in the [Numerical Mathematics Group](https://numerics.kaust.edu.sa/) at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)). I am interested in understanding and modeling our physical (and mathematical)  universe through mathematics and computer science, with a special interest in numerical methods for partial differential equations. 
+Welcome, fellow human beings! I am a Ph.D. Student of Applied Mathematics and Computational Sciences in the [Numerical Mathematics Group](https://numerics.kaust.edu.sa/) at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en)), where I also obtained my M.Sc. degree. I am interested in understanding and modeling our physical (and mathematical)  universe through mathematics and computer science, with a special interest in numerical methods for partial differential equations. 
 Before joining KAUST, I obtained my B.Sc. in Mathematics from [Yachay Tech University](https://www.yachaytech.edu.ec) in Ecuador. 
 
 This will be a personal website to gather some ideas and, since most of my life is academia now, I expect some of these to have an academic motivation.
