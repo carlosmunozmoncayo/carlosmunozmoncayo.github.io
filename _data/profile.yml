@@ -1,17 +1,18 @@
 primary_name: "Carlos Muñoz Moncayo"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Carlos Muñoz's website"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/KAUST_badge.png  # Logo is optional
+  name: PhD student in Applied Mathematics and Computational Sciences (AMCS) at KAUST
+- name: MSc in AMCS from KAUST (2021-2022)
+- name: BSc in Mathematics from Yachay Tech (2015-2020) 
 
 
-email: "your@email.com"
+email: "carlos.munozmoncayo@kaust.edu.sa"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+github: carlosmunozmoncayo
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,7 +23,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    UNDER CONSTRUCTION! NONE OF THE INFO HERE IS MINE, I HOPE TO GET THIS SETUP IN A COUPLE OF DAYS C=
+    UNDER CONSTRUCTION! MOST OF THE INFO HERE IS NOT MINE, I HOPE TO GET THIS SETUP IN A COUPLE OF DAYS C=
   </p>
   <p>
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
