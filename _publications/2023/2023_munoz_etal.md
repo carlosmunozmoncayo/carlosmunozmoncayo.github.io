@@ -12,5 +12,6 @@ authors:
 - David I. Ketcheson
 - Manuel Quezada de Luna
 links:
+  Code: https://github.com/carlosmunozmoncayo/fast-robust-exact-riemann-solvers
   Paper: https://msp.org/camcos/2023/18-1/p05.xhtml
 ---
