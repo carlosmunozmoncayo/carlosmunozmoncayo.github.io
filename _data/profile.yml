@@ -4,8 +4,7 @@ navbar_name: "Carlos Muñoz's website"
 
 positions:
 - logo: /assets/images/badges/KAUST_badge.png  # Logo is optional
-  name: PhD student in Applied Mathematics and Computational Sciences (AMCS) at KAUST <br/>
-  Numerical Mathematics Group
+  name: PhD student in Applied Mathematics and Computational Sciences (AMCS) at KAUST 
 # - logo: /assets/images/badges/KAUST_badge.png 
 #   name: MSc in AMCS from KAUST (2021-2022)
 # - logo: /assets/images/badges/YT_badge.png 
