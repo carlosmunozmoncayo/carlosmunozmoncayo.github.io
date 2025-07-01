@@ -1,7 +1,7 @@
 ---
 title:          " Comparative Study of Iterative Riemann Solvers for the Shallow Water and Euler Equations"
 date:           2023-05-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Communications in Applied Mathematics and Computational Science"
 pub_date:       "2023"
 abstract: >-
