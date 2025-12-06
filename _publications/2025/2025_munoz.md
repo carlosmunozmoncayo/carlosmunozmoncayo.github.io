@@ -1,6 +1,6 @@
 ---
 title:          "A Unified Framework for Sponge-Layer Relaxation Methods and Damping Operators for Conservation Laws: Application to the Piston Problem of Gas Dynamics"
-date:           2024-05-01 00:01:00 +0800
+date:           2025-12-06 00:01:00 +0800
 selected:       true
 pub:            "Journal of Engineering Mathematics"
 pub_date:       "(To appear)"
