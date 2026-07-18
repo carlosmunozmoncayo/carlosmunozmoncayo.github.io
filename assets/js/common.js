@@ -39,3 +39,22 @@ $(function () {
         $grid.masonry('layout');
     });
 })
+
+$(function () {
+    function updateIcon() {
+        var dark = document.documentElement.getAttribute("data-theme") === "dark";
+        $("#theme-toggle i").attr("class", dark ? "fas fa-sun" : "fas fa-moon");
+    }
+    updateIcon();
+    $("#theme-toggle").on("click", function () {
+        var dark = document.documentElement.getAttribute("data-theme") === "dark";
+        if (dark) {
+            document.documentElement.removeAttribute("data-theme");
+            localStorage.setItem("theme", "light");
+        } else {
+            document.documentElement.setAttribute("data-theme", "dark");
+            localStorage.setItem("theme", "dark");
+        }
+        updateIcon();
+    });
+});

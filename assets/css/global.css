@@ -90,3 +90,48 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+/* ---------- Dark mode ---------- */
+html[data-theme="dark"] body,
+html[data-theme="dark"] .bg-light {
+    background-color: #121417 !important;
+    color: #e2e4e8;
+}
+
+html[data-theme="dark"] .bg-white,
+html[data-theme="dark"] .card {
+    background-color: #1c1f24 !important;
+    color: #e2e4e8;
+}
+
+html[data-theme="dark"] .navbar.bg-light {
+    background-color: #1c1f24 !important;
+}
+
+html[data-theme="dark"] .navbar-light .navbar-brand,
+html[data-theme="dark"] .navbar-light .nav-link,
+html[data-theme="dark"] .navbar-toggler {
+    color: #e2e4e8 !important;
+}
+
+html[data-theme="dark"] .text-body {
+    color: #e2e4e8 !important;
+}
+
+html[data-theme="dark"] .text-muted {
+    color: #9aa0a6 !important;
+}
+
+html[data-theme="dark"] .border,
+html[data-theme="dark"] .border-top,
+html[data-theme="dark"] .border-bottom,
+html[data-theme="dark"] .border-gray {
+    border-color: #33383f !important;
+}
+
+html[data-theme="dark"] a:not(.btn):not(.nav-link) {
+    color: #6ea8fe;
+}
+
+html[data-theme="dark"] img {
+    filter: brightness(0.9);
+}
